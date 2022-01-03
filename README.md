@@ -1,1 +1,121 @@
 # My-Projects
+- Objects
+- Squariads
+- Sofia in the maze land
+- Return of the Jewel Thief
+- Vegetable Garden 1
+- Air Hockey Battle
+- Vegetable Garden 2
+- World's Hardest Game
+- Balloon Buster 1
+- Balloon Buster 2
+- Balloon Buster 3
+- Balloon Buster 4
+- Balloon Buster 5
+- Fruit Ninja 1
+- Fruit Ninja 2
+- Monkey Go Happy 1
+- Monkey Go Happy 2
+- Host the game online
+- Your own infinite runner game
+- GCSO
+- Jumping Box
+- Crumpled Balls
+- Masterchef Junior
+- Newton's Cradle
+- Plucking Mangoes
+- Tower Siege 1
+- Tower Siege 2
+- Snowfall Animation
+- Kill the monster
+- Air Balloon Ride
+- Virtual Pet
+- My Quiz Game
+- Infinite Runner Game 1
+- Infinite Runner Game 2
+- Fruit Collector Debug - 1
+- Fruit Collector Debug - 2
+- Docking and Undocking Mission
+- Treasure Hunt
+- Make your own game 1
+- Make your own game 2
+- Make your own game 3
+- Make your own game 4
+- Supply Mission
+- Plinko Game
+- Sunrise and Sunset
+- Hot Air Ballon Ride
+- My Silicon Valley Project
+- Origami Website Design Part 1
+- Origami Website Design Part 2
+- Origami Website Design Part 3
+- Origami Website Design Part 4
+- Famous Personality
+- DJ Audio Mixer App Stage 1
+- DJ Audio Mixer App Stage 2
+- Knowledge App
+- Newsletter App
+- Dictionary App Offline Version
+- Contributing to open source project
+- Buzz App Bottom Tab Navigation
+- Bar Code Scanner
+- Do you know this ?
+- Newsletter App 2
+- School Attendance App
+- Call of Duty
+- Dictionary App Online Version
+- Text to Speech Convertor
+- Text to Speech Ternary Operator
+- Story Hub
+- Complaint Forum
+- Job Portal
+- Let's Ride
+- Bedtime Stories Flatlist
+- App Publishing and Local Environment Setup
+- Get to Know Me - Codepen
+- Profile Css - Codepen
+- Felix Graham De Vanily - Codepen
+- Get to Know Me - Scratch
+- The Quest of Miracle Treasure - Game Master's League
+- Snake Game - Replit
+- Full Inverted Triangle - Nested FOR loop
+- Half Inverted Triangle - Nested FOR loop
+- Full Triangle - Nested FOR loop
+- Half Triangle - Nested FOR loop
+- Miraculous Musical
+- Help Maria reach her mother
+- Mission Mars
+- Golden Jublee
+- Run on the road
+- Fun with maze
+- Happy Father's Day
+- Happy Mother's Day
+- Happy b'day Papa
+- Happy b'day Mummy
+- MLBCN Quiz
+- Pong Game
+- Tunnel Game
+- Ping Pong
+- Playground
+- Walls
+- Miraculous Rush
+- Miraculous Flip the Card
+- Miraculous Website
+- My Personalized Website in HTML-CSS
+- Slime Trade
+- Ghost Tower
+- T-Rex Runner
+- Miraculous Rush 2
+- Team Voting
+- Weather App
+- WILY
+- Monkey Chunkey
+- India
+- Angry Birds
+- Multiplayer Car Racing
+- Pin Ball
+- Tom & Jerry
+- Quiz Buzzer App
+- Quiz Buzzer Admin App
+
+# Total = 118
